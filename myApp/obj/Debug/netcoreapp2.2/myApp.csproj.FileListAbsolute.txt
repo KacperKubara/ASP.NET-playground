@@ -1,0 +1,11 @@
+/home/kacper/Desktop/Coding_Projects/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/kacper/Desktop/Coding_Projects/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/kacper/Desktop/Coding_Projects/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/kacper/Desktop/Coding_Projects/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/kacper/Desktop/Coding_Projects/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/kacper/Desktop/Coding_Projects/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/kacper/Desktop/Coding_Projects/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/kacper/Desktop/Coding_Projects/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/kacper/Desktop/Coding_Projects/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/kacper/Desktop/Coding_Projects/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/kacper/Desktop/Coding_Projects/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
